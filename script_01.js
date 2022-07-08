@@ -8,6 +8,8 @@
  * 
 */
 
-// Zeilen-Kommentar
+// Konsolen-Ausgaben
 
-console.log("hi");
+console.log ("Hallo");
+console.log (firstName);
+
